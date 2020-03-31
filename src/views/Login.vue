@@ -1,6 +1,18 @@
 <template>
   <div class="container-fluid">
     <div class="row">
+      <div class="col">
+        <h2 class="text-center">
+          Create a
+          <span style="color:red;font-weight:bold">Free</span> account
+        </h2>
+        <div class="co">
+          <p>
+            Already have and account?
+            <a href="#" class="text-decoration-none">Log in Here >></a>
+          </p>
+        </div>
+      </div>
       <div class="col-12" id="createForm">
         <div id="backboard">
           <notifications group="login" />
