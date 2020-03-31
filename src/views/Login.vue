@@ -11,6 +11,9 @@
             Already have and account?
             <a href="#" class="text-decoration-none">Log in Here >></a>
           </p>
+          <div>
+            <p>Create and account</p>
+          </div>
         </div>
       </div>
       <div class="col-12" id="createForm">
@@ -61,11 +64,11 @@
                   />
                 </div>
               </div>
-              <button type="submit">Login</button>
+              <button class="form-group btn-primary btn-block btn-lg" type="submit">Login</button>
             </form>
           </div>
           <p>
-            Don't have an account?
+            Or Sign Up With
             <!-- <router-link to="/sign_up" tag="h6" id="sign-up">Create One</router-link> -->
           </p>
         </div>
