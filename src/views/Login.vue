@@ -64,7 +64,7 @@
                   />
                 </div>
               </div>
-              <button class="form-group btn-primary btn-block btn-lg" type="submit">Login</button>
+              <button class="form-group btn-primary btn-block btn-lg" type="submit">Create Account</button>
             </form>
           </div>
           <p>
